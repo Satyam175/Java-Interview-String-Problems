@@ -2,4 +2,4 @@
 Solved Important String Problems in Java
 
 # Open as a Java Project 
-# Refer Other my repositories for more solved problems
+# Refer my other repositories for more solved problems
